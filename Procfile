@@ -1,1 +1,1 @@
-web: python harness.py
+web: python server.py
