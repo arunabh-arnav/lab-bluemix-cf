@@ -1,0 +1,90 @@
+[
+	{
+       "id": 1,
+       "first-name": "Arunabh",
+       "last-name": "Arnav",
+       "gender": "M",
+       "age": 24,
+       "email": "aa5186@nyu.edu",
+       "address-line1":"Journal Square",
+       "address-line2":"Jersey City, NJ, 07306",
+       "phonenumber" : "212-212-2122"  
+	},
+	{
+       "id": 2,
+       "first-name": "Jason",
+       "last-name": "Statham",
+       "gender": "M",
+       "age": 51,
+       "email": "jstatam@gmail.com",
+       "address-line1":"Hollywood Boulevard",
+       "address-line2":"",
+       "phonenumber" : ""  
+	},
+	{
+       "id": 3,
+       "first-name": "Shahrukh",
+       "last-name": "Khan",
+       "gender": "M",
+       "age": 55,
+       "email": "skhan@skhan.com",
+       "address-line1":"Borevalli",
+       "address-line2":"Mumbai",
+       "phonenumber" : "545-545-5455"  
+	},
+	{
+       "id": 4,
+       "first-name": "Kristen",
+       "last-name": "Stewart",
+       "gender": "F",
+       "age": 26,
+       "email": "kstew@stew.com",
+       "address-line1":"Hollywood",
+       "address-line2":"Los Angeles",
+       "phonenumber" : ""  
+	},
+	{
+       "id": 5,
+       "first-name": "Angelina",
+       "last-name": "Jolie",
+       "gender": "F",
+       "age": 40,
+       "email": "ajolie@jolie.com",
+       "address-line1":"Hakunamatata",
+       "address-line2":"Hawaii",
+       "phonenumber" : ""  
+	},
+	{
+       "id": 6,
+       "first-name": "Tiger",
+       "last-name": "Woods",
+       "gender": "M",
+       "age": 43,
+       "email": "woodywoods@woods.com",
+       "address-line1":"Pacific Drive",
+       "address-line2":"USA",
+       "phonenumber" : ""  
+	},
+	{
+       "id": 7,
+       "first-name": "Morgan",
+       "last-name": "Freeman",
+       "gender": "M",
+       "age": 65,
+       "email": "mrfreeman@freeman.com",
+       "address-line1":"Palm Beach",
+       "address-line2":"California",
+       "phonenumber" : ""  
+	},
+	{
+       "id": 8,
+       "first-name": "Conor",
+       "last-name": "McGregor",
+       "gender": "M",
+       "age": 29,
+       "email": "conorthenotorious@mma.com",
+       "address-line1":"Irish Pub",
+       "address-line2":"Ireland",
+       "phonenumber" : "111-998-9898"  
+	}
+]
