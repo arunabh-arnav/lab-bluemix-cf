@@ -89,7 +89,8 @@ def create_pets():
         message = pet.serialize()
         rc = HTTP_201_CREATED
     else:
-        message = { 'error' : 'Data is not valid' }
+		temp = payload['name']+payload['category']
+        message = { 'error' : temp }
         rc = HTTP_400_BAD_REQUEST
 
     response = make_response(jsonify(message), rc)
